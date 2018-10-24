@@ -3,3 +3,15 @@
 ######################  Example  ############################
 Prefered language(s): C, Python
 Full name initials: JVSR
+
+#######Classificação porco/cachorro em Python#######
+
+//Definindo as caracteristicas. 1 == sim, 0 == não
+//É gordinho? tem pernas curtas? late?
+
+porco1 = [1, 1, 0]
+porco2 = [1, 1, 0]
+porco3 = [1, 1, 0]
+cachorro4 = [1, 1, 1]
+cachorro5 = [0, 1, 1]
+cachorro6 = [0, 1, 1]
